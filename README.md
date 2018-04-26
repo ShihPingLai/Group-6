@@ -3,6 +3,7 @@
 #Computation for Physics Final project
 # Members
 #Steven Chang #Yu Chuan #Chia Chun #poly 
+# G
 # Schedule
 # Assignment
 #collect 6 infinity stones 

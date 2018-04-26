@@ -6,4 +6,4 @@
 # Goal
 # Schedule
 # Assignment
-#collect 6 infinity stones 
+#collect 6 infinity stones of the universe

@@ -1,3 +1,3 @@
 # Group-6
 # physics simulation of object trajectory
-#Computation for Physics Fianl project
+#Computation for Physics Final project

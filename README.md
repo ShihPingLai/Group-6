@@ -2,10 +2,10 @@
 # physics simulation of object trajectory
 #Computation for Physics Final project
 # Members
-1.Steven Chang, flagged guy
-2.Yu Chuan, 87
-3.Chia Chun, baseballman 
-4.poly, popopopopopo
+#Steven Chang, flagged guy
+#Yu Chuan, 87
+#Chia Chun, baseballman 
+#poly, popopopopopo
 # Goal
 make a funny game
 # Schedule

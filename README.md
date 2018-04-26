@@ -3,6 +3,7 @@
 #Computation for Physics Final project
 # Members
 #Steven Chang, flagged guy
+\n
 #Yu Chuan, 87
 #Chia Chun, baseballman 
 #poly, popopopopopo

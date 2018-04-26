@@ -1,3 +1,3 @@
 # Group-6
 # physics simulation of object trajectory
-#SELFIE
+#Computation for Physics Fianl project

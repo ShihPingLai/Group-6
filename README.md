@@ -5,4 +5,4 @@
 #Steven Chang #Yu Chuan #Chia Chun #poly 
 # Goal
 # Assignment
-#collect 6 infinity stones
+#collect 6 infinity stones 

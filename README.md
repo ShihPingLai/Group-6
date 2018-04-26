@@ -10,7 +10,7 @@ Chia Chun, baseballman.
 
 poly, popopopopopo.
 # Goal
-make a funny game
+make a funny game like.....well you know
 # Schedule
 # Assignment
 Collect 6 infinity stones of the universe

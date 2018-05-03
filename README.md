@@ -10,5 +10,11 @@
 # Goal
 make a funny game like.....well you know
 # Schedule
+5/3 & 5/10 做圖<br />
+5/17 畫KD線<br />
+5/24 & 5/31 & 6/7 模擬交易<br />
+# Fen gong
+Steven Chang & Chia Chun ： 成交量做圖<br />
+Yu Chuan & poly & KID Chen ： K線做圖<br />
 # Assignment
 Collect 6 infinity stones of the universe

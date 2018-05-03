@@ -6,6 +6,7 @@
 * Yu Chuan, 87.<br />
 * Chia Chun, baseballman.<br />
 * poly, popopopopopo.<br />
+* KID Chen, Kaitō Kiddo.<br />
 # Goal
 make a funny game like.....well you know
 # Schedule

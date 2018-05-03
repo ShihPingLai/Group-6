@@ -1,7 +1,3 @@
-# -*- coding: utf-8 -*-
-from sympy import *
-from sympy import Derivative as D
-
 var("x1 x2 y1 y2 l1 l2 m1 m2 th1 th2 dth1 dth2 ddth1 ddth2 t g tmp")
 
 sublist = [

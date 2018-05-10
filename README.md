@@ -8,7 +8,7 @@ Computation for Physics Final project
 * poly, popopopopopo.<br />
 * KID Chen, Kaitō Kiddo.<br />
 # Goal
-become wealthy men
+Become wealthy men
 # Schedule
 5/3 & 5/10 做圖<br />
 5/17 畫KD線<br />

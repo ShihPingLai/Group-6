@@ -1,6 +1,6 @@
 # Group-6
 # 做出股票分析圖、模擬交易
-#Computation for Physics Final project
+Computation for Physics Final project
 # Members
 * Steven Chang, flagged guy.<br />
 * Yu Chuan, 87.<br />

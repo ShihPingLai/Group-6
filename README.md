@@ -1,5 +1,5 @@
 # Group-6
-# physics simulation of object trajectory
+# 做出股票分析圖、模擬交易
 #Computation for Physics Final project
 # Members
 * Steven Chang, flagged guy.<br />
@@ -8,7 +8,7 @@
 * poly, popopopopopo.<br />
 * KID Chen, Kaitō Kiddo.<br />
 # Goal
-make a funny game like.....well you know
+become wealthy men
 # Schedule
 5/3 & 5/10 做圖<br />
 5/17 畫KD線<br />

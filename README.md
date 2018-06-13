@@ -16,3 +16,10 @@ Become wealthy men
 # Fen gong
 Steven Chang & Chia Chun ： 成交量做圖<br />
 Yu Chuan & poly & KID Chen ： K線做圖<br />
+# Plugin
+talib<br />
+Tushare<br />
+matplotlib.pyplot<br />
+matplotlib.finance<br />
+pandas<br />
+Stockstats<br />

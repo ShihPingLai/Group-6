@@ -1,6 +1,6 @@
 # Group-6
 # 大數據的統計與分析-做出股票分析圖
-Computation for Physics Final project
+Final project of Computation for Physics
 # Members
 * Steven Chang, flagged guy.<br />
 * Yu Chuan, 87.<br />

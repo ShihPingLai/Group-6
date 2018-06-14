@@ -24,3 +24,5 @@ matplotlib.pyplot ： 繪圖工具<br />
 matplotlib.finance<br />
 pandas ： 畫圖工具<br />
 Stockstats ： 提供KD值公式<br />
+# 操作
+data = ts.get_k_data('輸入股號', index=True, start='輸入起始年-月-日', end='輸入結束年-月-日')
